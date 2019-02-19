@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 
 #pip install python-telegram-bot --upgrade
+#sudo modprobe w1-gpio
+#sudo modprobe w1-therm
 
 
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler
