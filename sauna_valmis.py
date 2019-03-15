@@ -23,7 +23,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 
 logger = logging.getLogger(__name__)
 
-LIST_OF_ADMINS = [753621589, 740806306] #Add your telegram id to gain access to bot
+LIST_OF_ADMINS = [753621566, 740806666] #Add your telegram id to gain access to bot
 
 #Temperature sensor setup
 os.system('sudo modprobe w1-gpio')
